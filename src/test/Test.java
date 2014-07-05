@@ -2,5 +2,6 @@ package test;
 
 public class Test {
 	System.out.println("hello");
-	System
+	System.out.println("hello2");
+	System.out.println;
 }
